@@ -1,3 +1,7 @@
+//Jorge Sanchez Lopez
+//Examen parcial 
+//ARQUITECTURA Y PROGRAMACIÓN DE SISTEMAS EN INTERNET (Grupo A)
+
 import { MongoClient } from 'mongodb'
 import type { Personas } from "./types.ts";
 
