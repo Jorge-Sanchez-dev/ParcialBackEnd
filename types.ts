@@ -1,7 +1,6 @@
 //types.ts
 
-import {ObjectId } from "mongodb"
-
+import { ObjectId } from "mongodb"
 
 export type Personas = {
     id: string;
